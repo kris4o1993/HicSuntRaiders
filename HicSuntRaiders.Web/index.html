@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Hic Sunt Raiders</title>
+    <link href="content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="content/ui-bootstrap-csp.css" rel="stylesheet" type="text/css"/>
+    <link href="styles/general.css" rel="stylesheet" type="text/css"/>
+    <script src="app/constants.js"></script>
+</head>
+<body ng-app="hsr">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <div ng-view>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="scripts/angular.js"></script>
+    <script src="scripts/angular-route.js"></script>
+    <script src="app/app.route.js"></script>
+    <script src="app/app.module.js"></script>
+
+    <script src="app/modules/listings/hsd/hsd-data.controller.js"></script>
+</body>
+</html>

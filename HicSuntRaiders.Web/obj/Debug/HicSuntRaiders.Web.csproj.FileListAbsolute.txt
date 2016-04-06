@@ -1,0 +1,6 @@
+c:\users\pcuser_2\documents\visual studio 2015\Projects\HicSuntRaiders\HicSuntRaiders.Web\bin\HicSuntRaiders.Web.dll.config
+c:\users\pcuser_2\documents\visual studio 2015\Projects\HicSuntRaiders\HicSuntRaiders.Web\bin\HicSuntRaiders.Web.dll
+c:\users\pcuser_2\documents\visual studio 2015\Projects\HicSuntRaiders\HicSuntRaiders.Web\bin\HicSuntRaiders.Web.pdb
+c:\users\pcuser_2\documents\visual studio 2015\Projects\HicSuntRaiders\HicSuntRaiders.Web\obj\Debug\HicSuntRaiders.Web.dll
+c:\users\pcuser_2\documents\visual studio 2015\Projects\HicSuntRaiders\HicSuntRaiders.Web\obj\Debug\HicSuntRaiders.Web.pdb
+c:\users\pcuser_2\documents\visual studio 2015\Projects\HicSuntRaiders\HicSuntRaiders.Web\obj\Debug\HicSuntRaiders.Web.csprojResolveAssemblyReference.cache
